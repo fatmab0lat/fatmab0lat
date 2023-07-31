@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div id="badges">
-  <a href="https://www.linkedin.com/in/fatma-bolat-140b52236/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div id="header">
+  <img src="https://media.giphy.com/media/tAs0wUOjx0EbPs6xCY/giphy.gif" width="200"/>
 </div>
 <h1>
   hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
 ### :woman_technologist: About Me :
 I am a computer science student.
@@ -39,4 +36,22 @@ I am a computer science student.
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
-  
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+
+  ---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fatmab0lat&theme=violet-punch)](https://git.io/streak-stats)
+\
+\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatmab0lat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div id="badges">
+  <h3>Connect with me</h3>
+  <a href="https://www.linkedin.com/in/fatma-bolat-140b52236/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
