@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header">
-  <img src="https://media.giphy.com/media/tAs0wUOjx0EbPs6xCY/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/rsUGLKwgSvSxmq1VrZ/giphy.gif" width="200"/>
 </div>
 <h1>
   hi there
