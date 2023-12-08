@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :woman_technologist: About Me :
+### 👩 About Me :
 I am a computer science student.
 - :telescope: I’m interested in web development.
 
@@ -29,7 +29,7 @@ I am a computer science student.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+###  📎  Languages and Tools :
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -40,7 +40,7 @@ I am a computer science student.
 
   ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fatmab0lat&theme=violet-punch)](https://git.io/streak-stats)
 \
 \
